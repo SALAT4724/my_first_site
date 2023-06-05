@@ -1,0 +1,17 @@
+h1{
+    color:mediumseagreen;
+}
+
+.title{
+    color:lime;
+    font-size:100px;
+    background-color:black;
+}
+
+body{
+    background-color:orange;
+}
+
+.code{
+    color:deepskyblue;
+}
