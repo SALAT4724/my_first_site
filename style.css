@@ -5,13 +5,40 @@ h1{
 .title{
     color:lime;
     font-size:100px;
-    background-color:black;
+    background-color:orange;
 }
 
 body{
-    background-color:orange;
+    background-color:black;
 }
 
 .code{
     color:deepskyblue;
+    padding: 0px 0px 0px 20px;
+    margin: 30px;
+    border: 2px solid hsl(120, 100%, 50%);
+}
+
+.html{
+    color:red;
+}
+
+div{
+    text-align: center;
+}
+
+.but{
+    padding: 10px;
+    border:2px solid rgb(0,0,255);
+    border-radius: 10px;
+    background-color: rgb(18, 18, 163);
+    color: rgb(0, 255, 0);
+    font-weight: 900;
+    transition: 5s;
+    
+}
+
+.but:hover{
+    background-color: darkgoldenrod;
+    opacity: 0;
 }
